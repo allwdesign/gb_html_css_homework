@@ -18,7 +18,7 @@ h2 {
 }
 .name {
     color: #0f03fc;
-    font-style: italic;
+    font-family: 'Sofia Sans Condensed', sans-serif;
     font-size: 20px;
     text-align: center;
 }
