@@ -1,0 +1,32 @@
+body {
+    background: #fcf6e8;
+
+}
+h1 {
+    color:brown;
+    text-align: center;
+    font-size: 55px;
+}
+h2 {
+    color: aqua;
+    text-align: center;
+    font-size: 35px;
+}
+.goods {
+    float: left;
+    margin: 40px;
+}
+.name {
+    color: #0f03fc;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+}
+.description {
+    width: 250px;
+}
+.picture {
+    width: 250px;
+    height: 200px;
+    
+}
