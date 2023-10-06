@@ -2,31 +2,61 @@ body {
     background: #fcf6e8;
 
 }
-h1 {
-    color:brown;
-    text-align: center;
-    font-size: 55px;
+
+.h1_title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
 }
-h2 {
-    color: aqua;
-    text-align: center;
-    font-size: 35px;
+
+
+.h2_title {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
 }
+
+a {
+    text-decoration: none;
+}
+
+.paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
 .goods {
-    float: left;
-    margin: 40px;
+    display: flex;
 }
+
+
 .name {
-    color: #0f03fc;
+    color: coral;
     font-family: 'Sofia Sans Condensed', sans-serif;
     font-size: 20px;
     text-align: center;
-}
-.description {
     width: 250px;
 }
+
+.description {
+    width: 250px;
+    margin: 0 10%;
+}
+
 .picture {
     width: 250px;
     height: 200px;
-    
+    margin: 1% 10%;
 }
